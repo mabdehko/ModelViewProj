@@ -1,5 +1,1 @@
-ModelViewProj
-=============
-
-
-Select Instructions.pdf
+Begin by reading Instructions.pdf
